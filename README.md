@@ -49,7 +49,7 @@
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/lundasil/">
+                <a href="[https://github.com/lundasil/](https://github.com/lunadasil)">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
